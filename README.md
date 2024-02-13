@@ -1,5 +1,7 @@
 # ProyctoFinalExtra
 Aquí encontraremos el proyecto de puntos Extras
+
+
 El programa es un simulador de cotización de seguros que solicita información relevante al usuario, como su nombre, edad, estado civil, edad del cónyuge (en caso de estar casado), si tienen hijos y la cantidad de estos. Luego, basándose en esta información, calcula un recargo total en función de diferentes factores como la edad del asegurado y del cónyuge, la cantidad de hijos, entre otros. Finalmente, presenta al usuario el recargo total y el precio final de la cotización.
 
 Partes del problema a considerar:
