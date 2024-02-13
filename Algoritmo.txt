@@ -1,0 +1,12 @@
+Diseñar algoritmo 
+
+
+1.Leer datos del archivo adjunto
+2.Procesar los datos
+3.Calcular la cotización
+4.Considerar posibles descuentos o recargos
+5.Mostrar la cotización al usuario
+6.Guardar la cotización
+7.Tomar decisiones basadas en la respuesta del usuario
+8.Finalizar el proceso
+

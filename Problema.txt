@@ -1,0 +1,7 @@
+Problema 
+
+El problema principal que enfrenta la empresa de seguros TK-U es la realización manual de cotizaciones, lo que resulta en una pérdida significativa de tiempo y una capacidad limitada para generar cotizaciones, con un máximo de 50 al día. Esta situación está causando retrasos en la entrega de cotizaciones y probablemente está resultando en la pérdida de posibles clientes.
+
+Para abordar este problema, se propone desarrollar un cotizador automático que permita generar cotizaciones de manera rápida y eficiente. El cotizador automático tomará ciertos criterios o factores, como la edad del cliente, el tipo de seguro solicitado, el historial de conducción, entre otros, y calculará automáticamente el valor de la cotización.
+
+En cuanto a los casos en los que se cambiaría el valor de la cotización, estos podrían incluir variables como la edad del cliente (por ejemplo, los conductores jóvenes pueden tener primas más altas debido a su falta de experiencia), el tipo de seguro solicitado (por ejemplo, el seguro de automóvil puede variar según el modelo del vehículo y la cobertura deseada), el historial de conducción (por ejemplo, conductores con un historial de accidentes pueden recibir cotizaciones más altas), entre otros factores relevantes para la determinación del riesgo y la prima del seguro.
